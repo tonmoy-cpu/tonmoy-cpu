@@ -1,6 +1,7 @@
 ![logo](https://github.com/tonmoy-cpu/tonmoy-cpu/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Tonmoy Mukherjee</h1>
 <h3 align="center">A Computer Science student from India</h3>
+<img width="400" align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="a guy amgry with his code">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy-cpu" /> </p>
 
@@ -9,7 +10,6 @@
 - 📫 How to reach me **tonmoymukherjee31@gmail.com**
 
 - ⚡ Fun fact **I love Dark(humour)..**
-<img width="400" align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="a guy amgry with his code">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
